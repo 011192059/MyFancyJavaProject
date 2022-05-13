@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("World");
         System.out.println("The second commit");
         System.out.println("The is Branch XY");
+        System.out.println("New changes to Branch XY");
     }
 }
